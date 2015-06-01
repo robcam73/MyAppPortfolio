@@ -51,7 +51,7 @@
         android:layout_marginBottom="@dimen/my_button_margin_bottom"
         android:layout_alignParentLeft="false"
         android:layout_alignParentStart="false"
-        android:layout_alignParentEnd="false"
+        android:layout_alignParentEnd="true"
         android:width="@dimen/my_button_with" />
 
     <Button
